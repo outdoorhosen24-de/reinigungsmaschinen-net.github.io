@@ -1,59 +1,87 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "gloria",
+        "name": "Gloria",
+        "slug": "gloria",
+        "productCategory": "Gloria",
+        "localThumb": "/assets/images/hersteller/gloria.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "nilfisk",
+        "name": "Nilfisk",
+        "slug": "nilfisk",
+        "productCategory": "Nilfisk",
+        "localThumb": "/assets/images/hersteller/nilfisk.webp"
     },
     {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
+        "key": "kärcher",
+        "name": "Kärcher",
+        "slug": "kaercher",
+        "productCategory": "Kärcher",
+        "localThumb": "/assets/images/hersteller/kaercher.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "worx",
+        "name": "Worx",
+        "slug": "worx",
+        "productCategory": "Worx",
+        "localThumb": "/assets/images/hersteller/worx.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "scheppach",
+        "name": "Scheppach",
+        "slug": "scheppach",
+        "productCategory": "Scheppach",
+        "localThumb": "/assets/images/hersteller/scheppach.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "yardforce",
+        "name": "Yardforce",
+        "slug": "yardforce",
+        "productCategory": "Yardforce",
+        "localThumb": "/assets/images/hersteller/yardforce.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "bosch professional",
+        "name": "Bosch Professional",
+        "slug": "bosch-professional",
+        "productCategory": "Bosch Professional",
+        "localThumb": "/assets/images/hersteller/bosch-professional.webp"
+    },
+    {
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
+    },
+    {
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
+    },
+    {
+        "key": "stiga",
+        "name": "Stiga",
+        "slug": "stiga",
+        "productCategory": "Stiga",
+        "localThumb": "/assets/images/hersteller/stiga.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +91,24 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "leifheit",
+        "name": "Leifheit",
+        "slug": "leifheit",
+        "productCategory": "Leifheit",
+        "localThumb": "/assets/images/hersteller/leifheit.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "rothenberger industrial",
+        "name": "Rothenberger Industrial",
+        "slug": "rothenberger-industrial",
+        "productCategory": "Rothenberger Industrial",
+        "localThumb": "/assets/images/hersteller/rothenberger-industrial.webp"
     }
 ]
