@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "reinigungsmaschinen.net",
+    "hostname": "https://www.reinigungsmaschinen.net/",
+    "email": "reinigungsmaschinen.netsurrealnetworks.io",
+    "organization": "reinigungsmaschinen.net",
+    "logoText": "Reinigungsmaschinen.net",
+    "title": "Reinigungsmaschinen",
+    "subline": "Der Online Shop f\u00fcr Reinigungsmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4128716",
+        "8727828",
+        "4574232",
+        "7256654",
+        "1531821",
+        "4128849"
+    ],
+    "winnerProducts": [
+        "3026291",
+        "3026432",
+        "9488099"
+    ],
+    "featuredCategories": [
+        "Nass- & Trockensauger & Zubeh\u00f6r",
+        "Waschb\u00fcrsten",
+        "Hochdruckreiniger & Zubeh\u00f6r",
+        "Weiteres Zubeh\u00f6r f\u00fcr NT Sauger",
+        "Filterbeutel",
+        "Nass- & Trockensauger & Zubeh\u00f6r"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Reinigungsmaschinen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Reinigungsmaschinen sind sehr wichtig f\u00fcr die Sauberkeit in unserem Gesch\u00e4ft. Wir haben eine gro\u00dfe Auswahl an verschiedenen Reinigungsmaschinen f\u00fcr verschiedene Zwecke. Wir haben auch eine gro\u00dfe Auswahl an Zubeh\u00f6r f\u00fcr die Reinigungsmaschinen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Reinigungsmaschinen f\u00fcr jeden Bedarf",
+            "metaDescription": "Reinigungsmaschinen f\u00fcr jeden Bedarf - vom Staubsauger bis zur Kehrmaschine. Jetzt online bestellen!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Reinigungsmaschinen: Die besten Modelle",
+                    "text": "Reinigungsmaschinen sind unerl\u00e4sslich f\u00fcr die t\u00e4gliche Reinigung in vielen Unternehmen. Sie erleichtern die Arbeit und sparen Zeit und Kosten. Die richtige Wahl der Reinigungsmaschine ist entscheidend f\u00fcr die Qualit\u00e4t der Reinigung. Es gibt verschiedene Arten von Reinigungsmaschinen f\u00fcr verschiedene Anwendungen. Bodenwischer sind f\u00fcr die Reinigung von B\u00f6den und Teppichen geeignet. Staubsauger eignen sich f\u00fcr die Reinigung von Polsterm\u00f6beln und Vorh\u00e4ngen. Hochdruckreiniger sind f\u00fcr die Reinigung von Fassaden und Fahrzeugen geeignet."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Reinigungsmaschinen Shop",
+            "metaDescription": "Reinigungsmaschinen Shop - Hier findest du die besten Reinigungsmaschinen f\u00fcr deine Bed\u00fcrfnisse!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Reinigungsmaschinen-Hersteller",
+            "metaDescription": "Reinigungsmaschinen-Hersteller bieten eine Vielzahl von hochwertigen Reinigungsmaschinen f\u00fcr den gewerblichen und industriellen Einsatz.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Reinigungsmaschine - die beste Wahl f\u00fcr Ihre Reinigungsbed\u00fcrfnisse!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Wahl in der $KATEGORIE. \u00dcberzeugen Sie sich selbst!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Reinigungsmaschinen f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Reinigungsmaschinen - Jetzt online bestellen bei Pollin.de! Gro\u00dfe Auswahl an $KATEGORIE Reinigungsmaschinen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Reinigungsmaschinen sind die besten auf dem Markt. Sie sind effizient, leistungsstark und langlebig. Kaufen Sie jetzt eine und sehen Sie selbst!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Reinigungsmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Reinigungsmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Reinigungsmaschinen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
