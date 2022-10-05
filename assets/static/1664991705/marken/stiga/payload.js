@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/stiga", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/stiga-hochdruckreiniger-hps-110-stiga-2510576-1.jpg":"\u002Fassets\u002Fimages\u002Fstiga-hochdruckreiniger-hps-110-stiga-2510576-1.webp"}}],fetch:{},mutations:void 0});

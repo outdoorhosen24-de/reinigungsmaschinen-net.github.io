@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weiteres-zubehor-fur-nt-sauger", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gardena-rotorduese-aqua-clean-li-gardena-4329421-1.jpg":"\u002Fassets\u002Fimages\u002Fgardena-rotorduese-aqua-clean-li-gardena-4329421-1.webp"}}],fetch:{},mutations:void 0});
