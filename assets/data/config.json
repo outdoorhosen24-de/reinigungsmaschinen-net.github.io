@@ -51,12 +51,15 @@
             "title": "Reinigungsmaschinen für jeden Bedarf",
             "metaDescription": "Reinigungsmaschinen für jeden Bedarf - vom Staubsauger bis zur Kehrmaschine. Jetzt online bestellen!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Reinigungsmaschinen: Die besten Modelle",
-                    "text": "Reinigungsmaschinen sind unerlässlich für die tägliche Reinigung in vielen Unternehmen. Sie erleichtern die Arbeit und sparen Zeit und Kosten. Die richtige Wahl der Reinigungsmaschine ist entscheidend für die Qualität der Reinigung. Es gibt verschiedene Arten von Reinigungsmaschinen für verschiedene Anwendungen. Bodenwischer sind für die Reinigung von Böden und Teppichen geeignet. Staubsauger eignen sich für die Reinigung von Polstermöbeln und Vorhängen. Hochdruckreiniger sind für die Reinigung von Fassaden und Fahrzeugen geeignet."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Reinigungsmaschinen: Die besten Modelle",
+                        "text": "Reinigungsmaschinen sind unerlässlich für die tägliche Reinigung in vielen Unternehmen. Sie erleichtern die Arbeit und sparen Zeit und Kosten. Die richtige Wahl der Reinigungsmaschine ist entscheidend für die Qualität der Reinigung. Es gibt verschiedene Arten von Reinigungsmaschinen für verschiedene Anwendungen. Bodenwischer sind für die Reinigung von Böden und Teppichen geeignet. Staubsauger eignen sich für die Reinigung von Polstermöbeln und Vorhängen. Hochdruckreiniger sind für die Reinigung von Fassaden und Fahrzeugen geeignet."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Reinigungsmaschinen Shop",
