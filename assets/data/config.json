@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "reinigungsmaschinen.net",
     "hostname": "https://www.reinigungsmaschinen.net/",
     "email": "reinigungsmaschinen.net@surrealnetworks.io",
     "organization": "reinigungsmaschinen.net",
     "logoText": "Reinigungsmaschinen.net",
     "title": "Reinigungsmaschinen",
-    "subline": "Der Online Shop für Reinigungsmaschinen",
+    "subline": "Reinigungsmaschinen zu günstigen Preisen online bestellen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Reinigungsmaschinen",
-        "featureText": "Die Reinigungsmaschinen sind sehr wichtig für die Sauberkeit in unserem Geschäft. Wir haben eine große Auswahl an verschiedenen Reinigungsmaschinen für verschiedene Zwecke. Wir haben auch eine große Auswahl an Zubehör für die Reinigungsmaschinen.",
+        "featureText": "Willkommen in unserem Shop! Sie suchen eine ausgewählte Reinigungsmaschine oder entsprechendes Zubehör? Bei uns werden Sie fündig. Wir haben uns auf Reinigungsmaschinen & Zubehör spezialisiert. Eine übersichtliche Darstellung all unserer Angebote nach Kategorien oder Marken, macht die Produktsuche einfach. Klicken Sie sich gerne durch unser Sortiment. ",
         "index": {
             "title": "Reinigungsmaschinen für jeden Bedarf",
-            "metaDescription": "Reinigungsmaschinen für jeden Bedarf - vom Staubsauger bis zur Kehrmaschine. Jetzt online bestellen!",
+            "metaDescription": "Bei uns erhältlich! | Hochdruckreiniger, Nass- & Trockensauger, Dampfreiniger, und Zubehör wie: Waschbürsten, Schläuche, Strahlrohre, Reinigungsmittel uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Reinigungsmaschinen Shop",
-            "metaDescription": "Reinigungsmaschinen Shop - Hier findest du die besten Reinigungsmaschinen für deine Bedürfnisse!",
+            "title": "Shop für Reinigungsmaschinen",
+            "metaDescription": "In unserem Shop vorrätig! | Riesige Auswahl an Reinigungsmaschinen wie: Hochdruckreiniger, Nass- & Trockensauger uvm. | Von Kärcher, Leifheit, Bosch und Co. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Reinigungsmaschinen-Hersteller",
-            "metaDescription": "Reinigungsmaschinen-Hersteller bieten eine Vielzahl von hochwertigen Reinigungsmaschinen für den gewerblichen und industriellen Einsatz.",
+            "title": "Reinigungsmaschinen: Auflistung von Anbietern ",
+            "metaDescription": "Hochdruckreiniger, Nass- & Trockensauger und Co. von Kärcher, Leifheit, Bosch Professional, Makita, Gardena, Gloria uvm. | Einfach online bestellen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Reinigungsmaschine - die beste Wahl für Ihre Reinigungsbedürfnisse!",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Wahl in der $KATEGORIE. Überzeugen Sie sich selbst!",
+        "defaultTitle": "$PRODUKT | Top Produkt",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Wahl zum Thema $KATEGORIE. Viele weitere tolle Angebote von $HERSTELLER in unserem Shop.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Reinigungsmaschinen für $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Reinigungsmaschinen - Jetzt online bestellen bei Pollin.de! Große Auswahl an $KATEGORIE Reinigungsmaschinen.",
+        "defaultTitle": "$KATEGORIE - eine riesige Auswahl ",
+        "defaultMetaDescription": "Finden Sie viele tolle Angebote in unserer Kategorie $KATEGORIE | Einfache Produktsuche | Günstig bestellen | Sofort lieferbar",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Reinigungsmaschinen sind die besten auf dem Markt. Sie sind effizient, leistungsstark und langlebig. Kaufen Sie jetzt eine und sehen Sie selbst!",
+        "defaultTitle": "Alle Produkte von $HERSTELLER",
+        "defaultMetaDescription": "Reinigungsmaschinen von $HERSTELLER sind marktführend. Die hohe Qualität der Produkte ist ausschlaggebend für eine hohe Kundenzufriedenheit! ",
         "defaultRobots": "index, follow",
         "brands": [
             {
