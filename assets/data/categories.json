@@ -2,7 +2,7 @@
     {
         "key": "hochdruckreiniger & zubehör",
         "name": "Hochdruckreiniger & Zubehör",
-        "slug": "hochdruckreiniger-zubehor",
+        "slug": "hochdruckreiniger-zubehoer",
         "productCategory": "Hochdruckreiniger & Zubehör",
         "subCategories": []
     },
@@ -16,7 +16,7 @@
     {
         "key": "nass- & trockensauger & zubehör",
         "name": "Nass- & Trockensauger & Zubehör",
-        "slug": "nass-trockensauger-zubehor",
+        "slug": "nass-trockensauger-zubehoer",
         "productCategory": "Nass- & Trockensauger & Zubehör",
         "subCategories": []
     },
@@ -30,14 +30,14 @@
     {
         "key": "hochdruckreiniger-zubehör",
         "name": "Hochdruckreiniger-Zubehör",
-        "slug": "hochdruckreiniger-zubehor",
+        "slug": "hochdruckreiniger-zubehoer",
         "productCategory": "Hochdruckreiniger-Zubehör",
         "subCategories": []
     },
     {
         "key": "flächenreiniger",
         "name": "Flächenreiniger",
-        "slug": "flachenreiniger",
+        "slug": "flaechenreiniger",
         "productCategory": "Flächenreiniger",
         "subCategories": []
     },
@@ -65,21 +65,21 @@
     {
         "key": "weiteres zubehör für hochdruckreiniger",
         "name": "Weiteres Zubehör für Hochdruckreiniger",
-        "slug": "weiteres-zubehor-fur-hochdruckreiniger",
+        "slug": "weiteres-zubehoer-fuer-hochdruckreiniger",
         "productCategory": "Weiteres Zubehör für Hochdruckreiniger",
         "subCategories": []
     },
     {
         "key": "schläuche",
         "name": "Schläuche",
-        "slug": "schlauche",
+        "slug": "schlaeuche",
         "productCategory": "Schläuche",
         "subCategories": []
     },
     {
         "key": "waschbürsten",
         "name": "Waschbürsten",
-        "slug": "waschbursten",
+        "slug": "waschbuersten",
         "productCategory": "Waschbürsten",
         "subCategories": []
     },
@@ -93,14 +93,14 @@
     {
         "key": "zubehör für nass- & trockensauger",
         "name": "Zubehör für Nass- & Trockensauger",
-        "slug": "zubehor-fur-nass-trockensauger",
+        "slug": "zubehoer-fuer-nass-trockensauger",
         "productCategory": "Zubehör für Nass- & Trockensauger",
         "subCategories": []
     },
     {
         "key": "weiteres zubehör für nt sauger",
         "name": "Weiteres Zubehör für NT Sauger",
-        "slug": "weiteres-zubehor-fur-nt-sauger",
+        "slug": "weiteres-zubehoer-fuer-nt-sauger",
         "productCategory": "Weiteres Zubehör für NT Sauger",
         "subCategories": []
     },
