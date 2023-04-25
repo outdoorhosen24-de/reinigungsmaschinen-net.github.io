@@ -1,228 +1,231 @@
 {
-    "configIsReady": true,
-    "domain": "reinigungsmaschinen.net",
-    "hostname": "https://www.reinigungsmaschinen.net/",
-    "email": "reinigungsmaschinen.net@surrealnetworks.io",
-    "organization": "reinigungsmaschinen.net",
-    "logoText": "Reinigungsmaschinen.net",
-    "title": "Reinigungsmaschinen",
-    "subline": "Reinigungsmaschinen zu günstigen Preisen online bestellen",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "4128716",
-        "8727828",
-        "4574232",
-        "7256654",
-        "1531821",
-        "4128849"
-    ],
-    "winnerProducts": [
-        "3026291",
-        "3026432",
-        "9488099"
-    ],
-    "featuredCategories": [
-        "Nass- & Trockensauger & Zubehör",
-        "Waschbürsten",
-        "Hochdruckreiniger & Zubehör",
-        "Weiteres Zubehör für NT Sauger",
-        "Filterbeutel",
-        "Nass- & Trockensauger & Zubehör"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Reinigungsmaschinen",
-        "featureText": "Willkommen in unserem Shop! Sie suchen eine ausgewählte Reinigungsmaschine oder entsprechendes Zubehör? Bei uns werden Sie fündig. Wir haben uns auf Reinigungsmaschinen & Zubehör spezialisiert. Eine übersichtliche Darstellung all unserer Angebote nach Kategorien oder Marken, macht die Produktsuche einfach. Klicken Sie sich gerne durch unser Sortiment. ",
-        "index": {
-            "title": "Reinigungsmaschinen für jeden Bedarf",
-            "metaDescription": "Bei uns erhältlich! | Hochdruckreiniger, Nass- & Trockensauger, Dampfreiniger, und Zubehör wie: Waschbürsten, Schläuche, Strahlrohre, Reinigungsmittel uvm. ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Reinigungsmaschinen.net",
-                        "text": "Herzlich willkommen auf Reinigungsmaschinen.net, Ihrer ersten Adresse für hochwertige Reinigungsmaschinen und Zubehör. Unsere Produkte eignen sich für eine Vielzahl von Reinigungsaufgaben und bieten Ihnen maximale Effizienz und Leistung. Ob Sie einen Hochdruckreiniger, einen Nass- oder Trockensauger, einen Flächenreiniger oder einen Rohrreiniger benötigen, bei uns finden Sie das passende Gerät. Zudem bieten wir Ihnen eine große Auswahl an Reinigungsmitteln und weiterem Zubehör für Ihre Reinigungsmaschine. Überzeugen Sie sich selbst von unserem umfassenden Angebot und lassen Sie sich von uns inspirieren."
-                    },
-                    {
-                        "title": "Hochdruckreiniger & Zubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/hochdruckreiniger-zubehoer/\" title=\"Hochdruckreiniger & Zubehör\">Hochdruckreiniger & Zubehör</a> finden Sie alles, was Sie für eine gründliche Reinigung Ihrer Außen- und Innenbereiche benötigen. Von hochwertigen Hochdruckreinigern bis hin zu nützlichem Zubehör wie Düsen, Reinigungsmitteln und mehr bieten wir Ihnen alles, was Sie für eine effiziente Reinigung benötigen. Stöbern Sie jetzt durch unsere Auswahl und finden Sie das perfekte Gerät für Ihre Reinigungsaufgaben."
-                    },
-                    {
-                        "title": "Hochdruckreiniger",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/hochdruckreiniger/\" title=\"Hochdruckreiniger\">Hochdruckreiniger</a> finden Sie eine breite Auswahl an hochwertigen Reinigungsgeräten, die Ihnen dabei helfen, Ihre Außen- und Innenbereiche gründlich zu reinigen. Von robusten und langlebigen Geräten bis hin zu leistungsstarken und leicht zu handhabenden Modellen haben wir für jeden Bedarf das passende Gerät. Entdecken Sie jetzt unsere Auswahl an Hochdruckreinigern und finden Sie das perfekte Gerät für Ihre Reinigungsbedürfnisse."
-                    },
-                    {
-                        "title": "Nass- & Trockensauger & Zubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/nass-trockensauger-zubehoer/\" title=\"Nass- & Trockensauger & Zubehör\">Nass- & Trockensauger & Zubehör</a> finden Sie alles, was Sie für eine gründliche Reinigung Ihrer Innenbereiche benötigen. Von leistungsstarken Nass- und Trockensaugern bis hin zu nützlichem Zubehör wie Filterbeuteln und Reinigungsmitteln bieten wir Ihnen alles, was Sie für eine effiziente Reinigung benötigen. Stöbern Sie jetzt durch unsere Auswahl und finden Sie das perfekte Gerät für Ihre Reinigungsaufgaben."
-                    },
-                    {
-                        "title": "Nass- & Trockensauger",
-                        "text": "Entdecken Sie die Vielseitigkeit von Nass- und Trockensaugern in unserem Online-Shop. Ob für den privaten oder gewerblichen Einsatz, wir bieten Ihnen eine breite Auswahl an hochwertigen Geräten, die Ihre Reinigungsarbeiten einfach und effektiv gestalten. Von praktischen Handstaubsaugern bis hin zu kraftvollen Industriesaugern, bei uns finden Sie garantiert das passende Gerät für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Hochdruckreiniger-Zubehör",
-                        "text": "Verbessern Sie die Leistung Ihres Hochdruckreinigers mit dem richtigen Zubehör. In unserem Online-Shop finden Sie eine große Auswahl an hochwertigen Reinigungs- und Aufbewahrungslösungen, wie Düsen, Schläuche und vieles mehr. Unsere Zubehörteile sind speziell auf die Bedürfnisse von Hochdruckreinigern abgestimmt und ermöglichen eine effizientere Reinigung."
-                    },
-                    {
-                        "title": "Flächenreiniger",
-                        "text": "Machen Sie das Reinigen von großen Flächen zu einer einfachen Aufgabe mit unseren <a href=\"/kategorie/flaechenreiniger/\" title=\"Flächenreiniger\">Flächenreiniger</a>n. Unsere Geräte sind für den gewerblichen und privaten Einsatz geeignet und bieten eine schnelle und effiziente Reinigungslösung für Gehwege, Terrassen, Dächer und vieles mehr. Stöbern Sie in unserem Online-Shop und finden Sie den perfekten Flächenreiniger für Ihre Reinigungsbedürfnisse."
-                    },
-                    {
-                        "title": "Reinigungsmittel",
-                        "text": "Erhöhen Sie die Reinigungsleistung Ihrer Reinigungsmaschinen mit den <a href=\"/kategorie/reinigungsmittel/\" title=\"Reinigungsmittel\">Reinigungsmittel</a>n aus unserem Online-Shop. Wir bieten eine große Auswahl an hochwertigen Reinigungsmitteln für alle Arten von Reinigungsmaschinen. Ob für den Einsatz zu Hause oder im gewerblichen Bereich, wir haben das passende Reinigungsmittel für Sie. Entdecken Sie jetzt die Vorteile unserer Reinigungsmittel und verbessern Sie Ihre Reinigungsergebnisse."
-                    },
-                    {
-                        "title": "Rohrreiniger",
-                        "text": "Verstopfte Rohre sind ein ärgerliches Problem. Mit unseren <a href=\"/kategorie/rohrreiniger/\" title=\"Rohrreiniger\">Rohrreiniger</a>n können Sie diese jedoch einfach und effektiv beseitigen. Wir bieten eine große Auswahl an Rohrreinigern für alle Arten von Reinigungsmaschinen. Ob elektrisch oder manuell, wir haben den passenden Rohrreiniger für Ihre Bedürfnisse. Entdecken Sie jetzt die Vorteile unserer Rohrreiniger und lösen Sie Ihre Verstopfungsprobleme."
-                    },
-                    {
-                        "title": "Dampfreiniger",
-                        "text": "Mit einem <a href=\"/kategorie/dampfreiniger/\" title=\"Dampfreiniger\">Dampfreiniger</a> können Sie einfach und effektiv Reinigungsarbeiten durchführen. Unsere Dampfreiniger eignen sich für eine Vielzahl an Anwendungen und bieten eine hygienische Reinigung ohne Chemikalien. Wir bieten eine große Auswahl an Dampfreinigern für alle Bedürfnisse und Anforderungen. Entdecken Sie jetzt die Vorteile unserer Dampfreiniger und verbessern Sie Ihre Reinigungsergebnisse."
-                    },
-                    {
-                        "title": "Weiteres Zubehör für Hochdruckreiniger",
-                        "text": "Entdecken Sie das umfangreiche Angebot an Zubehör für Ihren Hochdruckreiniger bei Reinigungsmaschinen.net. Hier finden Sie alles, was Sie für eine effektive und gründliche Reinigung benötigen, einschließlich Schläuche, Waschbürsten und vielem mehr. Mit den hochwertigen Zubehörteilen erreichen Sie problemlos jede Stelle und sorgen für eine perfekte Reinigungsergebnisse. Stöbern Sie jetzt in unserem Sortiment und finden Sie das passende Zubehör für Ihren Hochdruckreiniger."
-                    },
-                    {
-                        "title": "Schläuche",
-                        "text": "Erweitern Sie Ihre Reinigungsmöglichkeiten mit unseren hochwertigen <a href=\"/kategorie/schlaeuche/\" title=\"Schläuche\">Schläuche</a>n. Bei Reinigungsmaschinen.net finden Sie eine große Auswahl an Schläuchen in verschiedenen Größen und Längen, um Ihre Reinigungsarbeiten effektiver und komfortabler zu gestalten. Ob für den Einsatz mit Ihrem Hochdruckreiniger oder anderen Reinigungsgeräten - mit unseren Schläuchen können Sie jede Herausforderung meistern. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Schlauch für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Waschbürsten",
-                        "text": "Erreichen Sie jede Ecke und jeden Winkel mit unseren hochwertigen <a href=\"/kategorie/waschbuersten/\" title=\"Waschbürsten\">Waschbürsten</a>. Bei Reinigungsmaschinen.net finden Sie eine breite Auswahl an Waschbürsten in unterschiedlichen Größen und Formen, die für eine effektive Reinigung sorgen. Ob für den Einsatz mit Ihrem Hochdruckreiniger oder anderen Reinigungsgeräten - mit unseren Waschbürsten können Sie jede Herausforderung meistern. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Waschbürste für Ihre Reinigungsbedürfnisse."
-                    },
-                    {
-                        "title": "Strahlrohre",
-                        "text": "Mit den hochwertigen <a href=\"/kategorie/strahlrohre/\" title=\"Strahlrohre\">Strahlrohre</a>n aus unserem Online-Shop können Sie jede Reinigungsaufgabe meistern. Unsere Strahlrohre sind robust und langlebig, so dass Sie lange Freude an Ihrem Reinigungswerkzeug haben werden. Überzeugen Sie sich selbst von der Qualität unserer Produkte."
-                    },
-                    {
-                        "title": "Zubehör für Nass- & Trockensauger",
-                        "text": "In unserem Online-Shop finden Sie das perfekte Zubehör für Ihren Nass- und Trockensauger. Von Saugdüsen über Adapter bis hin zu Reinigungsbürsten bieten wir Ihnen alles, was Sie für eine gründliche Reinigung benötigen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das passende Zubehör für Ihren Sauger."
-                    },
-                    {
-                        "title": "Weiteres Zubehör für NT Sauger",
-                        "text": "Unser Online-Shop bietet Ihnen eine große Auswahl an weiterem Zubehör für Ihren Nass- und Trockensauger. Von praktischen Aufbewahrungstaschen bis hin zu Ersatzteilen für Ihren Sauger finden Sie bei uns alles, was Sie brauchen. Überzeugen Sie sich jetzt von unserem umfangreichen Angebot."
-                    },
-                    {
-                        "title": "Filterbeutel für Reinigungsmaschinen",
-                        "text": "Suchen Sie hochwertige Filterbeutel für Ihre Reinigungsmaschinen? Dann sind Sie bei uns genau richtig! Unser Online-Shop bietet Ihnen eine breite Auswahl an Filterbeuteln für verschiedene Reinigungsmaschinen. Wir bieten Ihnen eine hohe Qualität zu einem attraktiven Preis-Leistungs-Verhältnis. Überzeugen Sie sich selbst von unserer Produktvielfalt und bestellen Sie noch heute Ihre neuen Filterbeutel."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Shop für Reinigungsmaschinen",
-            "metaDescription": "In unserem Shop vorrätig! | Riesige Auswahl an Reinigungsmaschinen wie: Hochdruckreiniger, Nass- & Trockensauger uvm. | Von Kärcher, Leifheit, Bosch und Co. ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Reinigungsmaschinen: Auflistung von Anbietern ",
-            "metaDescription": "Hochdruckreiniger, Nass- & Trockensauger und Co. von Kärcher, Leifheit, Bosch Professional, Makita, Gardena, Gloria uvm. | Einfach online bestellen.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Top Produkt",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Wahl zum Thema $KATEGORIE. Viele weitere tolle Angebote von $HERSTELLER in unserem Shop.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "reinigungsmaschinen.net",
+  "hostname": "https://www.reinigungsmaschinen.net/",
+  "email": "reinigungsmaschinen.net@surrealnetworks.io",
+  "organization": "reinigungsmaschinen.net",
+  "logoText": "Reinigungsmaschinen.net",
+  "title": "Reinigungsmaschinen",
+  "subline": "Reinigungsmaschinen zu g\u00fcnstigen Preisen online bestellen",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "4128716",
+    "8727828",
+    "4574232",
+    "7256654",
+    "1531821",
+    "4128849"
+  ],
+  "winnerProducts": [
+    "3026291",
+    "3026432",
+    "9488099"
+  ],
+  "featuredCategories": [
+    "Nass- & Trockensauger & Zubeh\u00f6r",
+    "Waschb\u00fcrsten",
+    "Hochdruckreiniger & Zubeh\u00f6r",
+    "Weiteres Zubeh\u00f6r f\u00fcr NT Sauger",
+    "Filterbeutel",
+    "Nass- & Trockensauger & Zubeh\u00f6r"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Reinigungsmaschinen",
+    "featureText": "Willkommen in unserem Shop! Sie suchen eine ausgew\u00e4hlte Reinigungsmaschine oder entsprechendes Zubeh\u00f6r? Bei uns werden Sie f\u00fcndig. Wir haben uns auf Reinigungsmaschinen & Zubeh\u00f6r spezialisiert. Eine \u00fcbersichtliche Darstellung all unserer Angebote nach Kategorien oder Marken, macht die Produktsuche einfach. Klicken Sie sich gerne durch unser Sortiment. ",
+    "index": {
+      "title": "Reinigungsmaschinen f\u00fcr jeden Bedarf",
+      "metaDescription": "Bei uns erh\u00e4ltlich! | Hochdruckreiniger, Nass- & Trockensauger, Dampfreiniger, und Zubeh\u00f6r wie: Waschb\u00fcrsten, Schl\u00e4uche, Strahlrohre, Reinigungsmittel uvm. ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Reinigungsmaschinen.net",
+            "text": "Herzlich willkommen auf Reinigungsmaschinen.net, Ihrer ersten Adresse f\u00fcr hochwertige Reinigungsmaschinen und Zubeh\u00f6r. Unsere Produkte eignen sich f\u00fcr eine Vielzahl von Reinigungsaufgaben und bieten Ihnen maximale Effizienz und Leistung. Ob Sie einen Hochdruckreiniger, einen Nass- oder Trockensauger, einen Fl\u00e4chenreiniger oder einen Rohrreiniger ben\u00f6tigen, bei uns finden Sie das passende Ger\u00e4t. Zudem bieten wir Ihnen eine gro\u00dfe Auswahl an Reinigungsmitteln und weiterem Zubeh\u00f6r f\u00fcr Ihre Reinigungsmaschine. \u00dcberzeugen Sie sich selbst von unserem umfassenden Angebot und lassen Sie sich von uns inspirieren."
+          },
+          {
+            "title": "Hochdruckreiniger & Zubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/hochdruckreiniger-zubehoer/\" title=\"Hochdruckreiniger & Zubeh\u00f6r\">Hochdruckreiniger & Zubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr eine gr\u00fcndliche Reinigung Ihrer Au\u00dfen- und Innenbereiche ben\u00f6tigen. Von hochwertigen Hochdruckreinigern bis hin zu n\u00fctzlichem Zubeh\u00f6r wie D\u00fcsen, Reinigungsmitteln und mehr bieten wir Ihnen alles, was Sie f\u00fcr eine effiziente Reinigung ben\u00f6tigen. St\u00f6bern Sie jetzt durch unsere Auswahl und finden Sie das perfekte Ger\u00e4t f\u00fcr Ihre Reinigungsaufgaben."
+          },
+          {
+            "title": "Hochdruckreiniger",
+            "text": "In unserer Kategorie <a href=\"/kategorie/hochdruckreiniger/\" title=\"Hochdruckreiniger\">Hochdruckreiniger</a> finden Sie eine breite Auswahl an hochwertigen Reinigungsger\u00e4ten, die Ihnen dabei helfen, Ihre Au\u00dfen- und Innenbereiche gr\u00fcndlich zu reinigen. Von robusten und langlebigen Ger\u00e4ten bis hin zu leistungsstarken und leicht zu handhabenden Modellen haben wir f\u00fcr jeden Bedarf das passende Ger\u00e4t. Entdecken Sie jetzt unsere Auswahl an Hochdruckreinigern und finden Sie das perfekte Ger\u00e4t f\u00fcr Ihre Reinigungsbed\u00fcrfnisse."
+          },
+          {
+            "title": "Nass- & Trockensauger & Zubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/nass-trockensauger-zubehoer/\" title=\"Nass- & Trockensauger & Zubeh\u00f6r\">Nass- & Trockensauger & Zubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr eine gr\u00fcndliche Reinigung Ihrer Innenbereiche ben\u00f6tigen. Von leistungsstarken Nass- und Trockensaugern bis hin zu n\u00fctzlichem Zubeh\u00f6r wie Filterbeuteln und Reinigungsmitteln bieten wir Ihnen alles, was Sie f\u00fcr eine effiziente Reinigung ben\u00f6tigen. St\u00f6bern Sie jetzt durch unsere Auswahl und finden Sie das perfekte Ger\u00e4t f\u00fcr Ihre Reinigungsaufgaben."
+          },
+          {
+            "title": "Nass- & Trockensauger",
+            "text": "Entdecken Sie die Vielseitigkeit von Nass- und Trockensaugern in unserem Online-Shop. Ob f\u00fcr den privaten oder gewerblichen Einsatz, wir bieten Ihnen eine breite Auswahl an hochwertigen Ger\u00e4ten, die Ihre Reinigungsarbeiten einfach und effektiv gestalten. Von praktischen Handstaubsaugern bis hin zu kraftvollen Industriesaugern, bei uns finden Sie garantiert das passende Ger\u00e4t f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Hochdruckreiniger-Zubeh\u00f6r",
+            "text": "Verbessern Sie die Leistung Ihres Hochdruckreinigers mit dem richtigen Zubeh\u00f6r. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an hochwertigen Reinigungs- und Aufbewahrungsl\u00f6sungen, wie D\u00fcsen, Schl\u00e4uche und vieles mehr. Unsere Zubeh\u00f6rteile sind speziell auf die Bed\u00fcrfnisse von Hochdruckreinigern abgestimmt und erm\u00f6glichen eine effizientere Reinigung."
+          },
+          {
+            "title": "Fl\u00e4chenreiniger",
+            "text": "Machen Sie das Reinigen von gro\u00dfen Fl\u00e4chen zu einer einfachen Aufgabe mit unseren <a href=\"/kategorie/flaechenreiniger/\" title=\"Fl\u00e4chenreiniger\">Fl\u00e4chenreiniger</a>n. Unsere Ger\u00e4te sind f\u00fcr den gewerblichen und privaten Einsatz geeignet und bieten eine schnelle und effiziente Reinigungsl\u00f6sung f\u00fcr Gehwege, Terrassen, D\u00e4cher und vieles mehr. St\u00f6bern Sie in unserem Online-Shop und finden Sie den perfekten Fl\u00e4chenreiniger f\u00fcr Ihre Reinigungsbed\u00fcrfnisse."
+          },
+          {
+            "title": "Reinigungsmittel",
+            "text": "Erh\u00f6hen Sie die Reinigungsleistung Ihrer Reinigungsmaschinen mit den <a href=\"/kategorie/reinigungsmittel/\" title=\"Reinigungsmittel\">Reinigungsmittel</a>n aus unserem Online-Shop. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Reinigungsmitteln f\u00fcr alle Arten von Reinigungsmaschinen. Ob f\u00fcr den Einsatz zu Hause oder im gewerblichen Bereich, wir haben das passende Reinigungsmittel f\u00fcr Sie. Entdecken Sie jetzt die Vorteile unserer Reinigungsmittel und verbessern Sie Ihre Reinigungsergebnisse."
+          },
+          {
+            "title": "Rohrreiniger",
+            "text": "Verstopfte Rohre sind ein \u00e4rgerliches Problem. Mit unseren <a href=\"/kategorie/rohrreiniger/\" title=\"Rohrreiniger\">Rohrreiniger</a>n k\u00f6nnen Sie diese jedoch einfach und effektiv beseitigen. Wir bieten eine gro\u00dfe Auswahl an Rohrreinigern f\u00fcr alle Arten von Reinigungsmaschinen. Ob elektrisch oder manuell, wir haben den passenden Rohrreiniger f\u00fcr Ihre Bed\u00fcrfnisse. Entdecken Sie jetzt die Vorteile unserer Rohrreiniger und l\u00f6sen Sie Ihre Verstopfungsprobleme."
+          },
+          {
+            "title": "Dampfreiniger",
+            "text": "Mit einem <a href=\"/kategorie/dampfreiniger/\" title=\"Dampfreiniger\">Dampfreiniger</a> k\u00f6nnen Sie einfach und effektiv Reinigungsarbeiten durchf\u00fchren. Unsere Dampfreiniger eignen sich f\u00fcr eine Vielzahl an Anwendungen und bieten eine hygienische Reinigung ohne Chemikalien. Wir bieten eine gro\u00dfe Auswahl an Dampfreinigern f\u00fcr alle Bed\u00fcrfnisse und Anforderungen. Entdecken Sie jetzt die Vorteile unserer Dampfreiniger und verbessern Sie Ihre Reinigungsergebnisse."
+          },
+          {
+            "title": "Weiteres Zubeh\u00f6r f\u00fcr Hochdruckreiniger",
+            "text": "Entdecken Sie das umfangreiche Angebot an Zubeh\u00f6r f\u00fcr Ihren Hochdruckreiniger bei Reinigungsmaschinen.net. Hier finden Sie alles, was Sie f\u00fcr eine effektive und gr\u00fcndliche Reinigung ben\u00f6tigen, einschlie\u00dflich Schl\u00e4uche, Waschb\u00fcrsten und vielem mehr. Mit den hochwertigen Zubeh\u00f6rteilen erreichen Sie problemlos jede Stelle und sorgen f\u00fcr eine perfekte Reinigungsergebnisse. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihren Hochdruckreiniger."
+          },
+          {
+            "title": "Schl\u00e4uche",
+            "text": "Erweitern Sie Ihre Reinigungsm\u00f6glichkeiten mit unseren hochwertigen <a href=\"/kategorie/schlaeuche/\" title=\"Schl\u00e4uche\">Schl\u00e4uche</a>n. Bei Reinigungsmaschinen.net finden Sie eine gro\u00dfe Auswahl an Schl\u00e4uchen in verschiedenen Gr\u00f6\u00dfen und L\u00e4ngen, um Ihre Reinigungsarbeiten effektiver und komfortabler zu gestalten. Ob f\u00fcr den Einsatz mit Ihrem Hochdruckreiniger oder anderen Reinigungsger\u00e4ten - mit unseren Schl\u00e4uchen k\u00f6nnen Sie jede Herausforderung meistern. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie den perfekten Schlauch f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Waschb\u00fcrsten",
+            "text": "Erreichen Sie jede Ecke und jeden Winkel mit unseren hochwertigen <a href=\"/kategorie/waschbuersten/\" title=\"Waschb\u00fcrsten\">Waschb\u00fcrsten</a>. Bei Reinigungsmaschinen.net finden Sie eine breite Auswahl an Waschb\u00fcrsten in unterschiedlichen Gr\u00f6\u00dfen und Formen, die f\u00fcr eine effektive Reinigung sorgen. Ob f\u00fcr den Einsatz mit Ihrem Hochdruckreiniger oder anderen Reinigungsger\u00e4ten - mit unseren Waschb\u00fcrsten k\u00f6nnen Sie jede Herausforderung meistern. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie die perfekte Waschb\u00fcrste f\u00fcr Ihre Reinigungsbed\u00fcrfnisse."
+          },
+          {
+            "title": "Strahlrohre",
+            "text": "Mit den hochwertigen <a href=\"/kategorie/strahlrohre/\" title=\"Strahlrohre\">Strahlrohre</a>n aus unserem Online-Shop k\u00f6nnen Sie jede Reinigungsaufgabe meistern. Unsere Strahlrohre sind robust und langlebig, so dass Sie lange Freude an Ihrem Reinigungswerkzeug haben werden. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Produkte."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Nass- & Trockensauger",
+            "text": "In unserem Online-Shop finden Sie das perfekte Zubeh\u00f6r f\u00fcr Ihren Nass- und Trockensauger. Von Saugd\u00fcsen \u00fcber Adapter bis hin zu Reinigungsb\u00fcrsten bieten wir Ihnen alles, was Sie f\u00fcr eine gr\u00fcndliche Reinigung ben\u00f6tigen. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihren Sauger."
+          },
+          {
+            "title": "Weiteres Zubeh\u00f6r f\u00fcr NT Sauger",
+            "text": "Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an weiterem Zubeh\u00f6r f\u00fcr Ihren Nass- und Trockensauger. Von praktischen Aufbewahrungstaschen bis hin zu Ersatzteilen f\u00fcr Ihren Sauger finden Sie bei uns alles, was Sie brauchen. \u00dcberzeugen Sie sich jetzt von unserem umfangreichen Angebot."
+          },
+          {
+            "title": "Filterbeutel f\u00fcr Reinigungsmaschinen",
+            "text": "Suchen Sie hochwertige Filterbeutel f\u00fcr Ihre Reinigungsmaschinen? Dann sind Sie bei uns genau richtig! Unser Online-Shop bietet Ihnen eine breite Auswahl an Filterbeuteln f\u00fcr verschiedene Reinigungsmaschinen. Wir bieten Ihnen eine hohe Qualit\u00e4t zu einem attraktiven Preis-Leistungs-Verh\u00e4ltnis. \u00dcberzeugen Sie sich selbst von unserer Produktvielfalt und bestellen Sie noch heute Ihre neuen Filterbeutel."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - eine riesige Auswahl ",
-        "defaultMetaDescription": "Finden Sie viele tolle Angebote in unserer Kategorie $KATEGORIE | Einfache Produktsuche | Günstig bestellen | Sofort lieferbar",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Shop f\u00fcr Reinigungsmaschinen",
+      "metaDescription": "In unserem Shop vorr\u00e4tig! | Riesige Auswahl an Reinigungsmaschinen wie: Hochdruckreiniger, Nass- & Trockensauger uvm. | Von K\u00e4rcher, Leifheit, Bosch und Co. ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Alle Produkte von $HERSTELLER",
-        "defaultMetaDescription": "Reinigungsmaschinen von $HERSTELLER sind marktführend. Die hohe Qualität der Produkte ist ausschlaggebend für eine hohe Kundenzufriedenheit! ",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Reinigungsmaschinen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Reinigungsmaschinen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Reinigungsmaschinen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Reinigungsmaschinen: Auflistung von Anbietern ",
+      "metaDescription": "Hochdruckreiniger, Nass- & Trockensauger und Co. von K\u00e4rcher, Leifheit, Bosch Professional, Makita, Gardena, Gloria uvm. | Einfach online bestellen.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Top Produkt",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Wahl zum Thema $KATEGORIE. Viele weitere tolle Angebote von $HERSTELLER in unserem Shop.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - eine riesige Auswahl ",
+    "defaultMetaDescription": "Finden Sie viele tolle Angebote in unserer Kategorie $KATEGORIE | Einfache Produktsuche | G\u00fcnstig bestellen | Sofort lieferbar",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Alle Produkte von $HERSTELLER",
+    "defaultMetaDescription": "Reinigungsmaschinen von $HERSTELLER sind marktf\u00fchrend. Die hohe Qualit\u00e4t der Produkte ist ausschlaggebend f\u00fcr eine hohe Kundenzufriedenheit! ",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Reinigungsmaschinen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Reinigungsmaschinen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Reinigungsmaschinen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
